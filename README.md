@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="./bmw-bmw-m4-bmw-m4-coupe-g82-adro-grey.webp" width="100%" alt="BMW M4 G82 gris" />
+<img src="https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=1600&q=90" width="100%" alt="BMW M4 gris" />
 
-### Construyendo ideas, aprendiendo tecnología y creando soluciones
+<h1>Benjamin Liras</h1>
+
+<h3>Técnico en Computación | Desarrollo Web</h3>
+
+Construyendo ideas, aprendiendo tecnología y creando soluciones
 
 Estudiante del último año de una escuela técnica especializada en computación. A finales de este año me graduaré como **Técnico en Computación**.
 
@@ -12,6 +16,8 @@ Soy una persona **proactiva, responsable y con buenas relaciones interpersonales
 <a href="mailto:tu-email@ejemplo.com"><img src="https://img.shields.io/badge/Email-Contactarme-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
+
+<hr />
 
 ## Sobre mí
 
