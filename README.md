@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=1600&q=90" width="100%" alt="BMW M4 gris" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1d4ed8,100:06b6d4&height=230&section=header&text=Benjamin%20Liras&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Técnico%20en%20Computación%20%7C%20Desarrollo%20Web&descAlignY=60&descSize=18" width="100%" alt="Banner de Benjamin Liras" />
 
 <h1>Benjamin Liras</h1>
 
