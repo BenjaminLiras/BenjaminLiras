@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:09090b,55:171116,100:450914&amp;height=220&amp;text=Benjamin%20Liras&amp;fontSize=48&amp;fontColor=fafafa&amp;fontAlignY=42&amp;desc=developer%20%7C%20computacion%20%7C%20web&amp;descAlignY=66&amp;descSize=15&amp;stroke=ef233c&amp;strokeWidth=2" width="100%" alt="Benjamin Liras | Developer, computación y desarrollo web. Banner estilo terminal." />
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:09090b,55:171116,100:450914&amp;height=220&amp;text=Benjamin%20Liras&amp;fontSize=48&amp;fontColor=fafafa&amp;fontAlignY=42&amp;desc=developer%20%7C%20computacion%20%7C%20web&amp;descAlignY=66&amp;descSize=15" width="100%" alt="Benjamin Liras | Developer, computación y desarrollo web. Banner estilo terminal." />
 
 <code>&gt;_ inicializando perfil_developer...</code>
 
