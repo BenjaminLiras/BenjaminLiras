@@ -1,39 +1,74 @@
-# Benjamin Liras
+<div align="center">
 
-### Técnico en Computación | Desarrollo frontend y backend
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1d4ed8,100:06b6d4&height=230&section=header&text=Benjamin%20Liras&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Técnico%20en%20Computación%20%7C%20Desarrollo%20Web&descAlignY=60&descSize=18" width="100%" alt="Banner de Benjamin Liras" />
 
-Soy estudiante del último año de una escuela técnica especializada en computación. A finales de este año me graduaré como **Técnico en Computación**.
+### Construyendo ideas, aprendiendo tecnología y creando soluciones
 
-Me considero una persona proactiva y responsable, con buenas relaciones interpersonales. Busco oportunidades que me permitan asumir nuevos desafíos, aportar mis conocimientos y continuar creciendo en el área del desarrollo de software.
+Estudiante del último año de una escuela técnica especializada en computación. A finales de este año me graduaré como **Técnico en Computación**.
 
-## Tecnologías
+Soy una persona **proactiva, responsable y con buenas relaciones interpersonales**. Busco una oportunidad que me desafíe a seguir creciendo y me permita aportar mis conocimientos al desarrollo de software.
 
-**Lenguajes:**
+<a href="https://github.com/BenjaminLiras"><img src="https://img.shields.io/badge/GitHub-BenjaminLiras-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:tu-email@ejemplo.com"><img src="https://img.shields.io/badge/Email-Contactarme-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-`C++` · `Java` · `Python` · `Arduino` · `TypeScript` · `GDScript`
+</div>
 
-**Frontend:**
+## Sobre mí
 
-`HTML` · `CSS` · `JavaScript` · `React`
+```text
+🎓  Próximo Técnico en Computación
+💻  Interesado en desarrollo frontend y backend
+🚀  Buscando mi primera oportunidad profesional en tecnología
+🤝  Abierto a proyectos, desafíos y nuevas conexiones
+```
 
-**Backend y bases de datos:**
+## Stack tecnológico
 
-`Spring Boot` · `MySQL` · `MongoDB`
+<div align="center">
+
+### Lenguajes y herramientas
+
+<img src="https://skillicons.dev/icons?i=cpp,java,python,arduino,ts,godot" alt="C++, Java, Python, Arduino, TypeScript y Godot" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react" alt="HTML, CSS, JavaScript y React" />
+
+### Backend y bases de datos
+
+<img src="https://skillicons.dev/icons?i=spring,mysql,mongodb" alt="Spring Boot, MySQL y MongoDB" />
+
+</div>
 
 ## Proyectos destacados
 
-- [Portafolio Frontend](https://github.com/BenjaminLiras/Portafolio-Frontend-Liras) - Sitio web para presentar proyectos, habilidades y experiencia.
-- [Farmacia Tapia](https://github.com/BenjaminLiras/Liras-Benjamin-FarmaciaTapia) - Proyecto orientado a la gestión de una farmacia.
+<div align="center">
 
-## Actualmente
+<a href="https://github.com/BenjaminLiras/Portafolio-Frontend-Liras">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=BenjaminLiras&repo=Portafolio-Frontend-Liras&theme=transparent&hide_border=true&title_color=2563eb&text_color=475569&icon_color=06b6d4" alt="Portafolio Frontend" />
+</a>
+<a href="https://github.com/BenjaminLiras/Liras-Benjamin-FarmaciaTapia">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=BenjaminLiras&repo=Liras-Benjamin-FarmaciaTapia&theme=transparent&hide_border=true&title_color=2563eb&text_color=475569&icon_color=06b6d4" alt="Farmacia Tapia" />
+</a>
+
+</div>
+
+## En este momento
 
 - Finalizando mi formación como Técnico en Computación.
 - Fortaleciendo mis conocimientos en desarrollo web y diseño de aplicaciones.
-- Buscando mi primera oportunidad profesional en el área de tecnología.
+- Preparándome para dar mis primeros pasos en el mundo profesional.
 
-## Contacto
+<div align="center">
 
-- **Email:** [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com)
-- **GitHub:** [github.com/BenjaminLiras](https://github.com/BenjaminLiras)
+### ¿Hablamos?
 
 Estoy abierto a conocer nuevos proyectos, oportunidades y personas con intereses similares.
+
+<a href="mailto:tu-email@ejemplo.com"><img src="https://img.shields.io/badge/Escribime-0ea5e9?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Escribime por email" /></a>
+
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=BenjaminLiras&style=flat-square&color=2563eb&label=visitas+al+perfil" alt="Visitas al perfil" />
+
+</div>
