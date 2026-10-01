@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1d4ed8,100:06b6d4&height=230&section=header&text=Benjamin%20Liras&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Técnico%20en%20Computación%20%7C%20Desarrollo%20Web&descAlignY=60&descSize=18" width="100%" alt="Banner de Benjamin Liras" />
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:101012,65:201014,100:700d1d&amp;height=220&amp;text=Benjamin%20Liras&amp;fontSize=48&amp;fontColor=fafafa&amp;fontAlignY=44&amp;desc=DESARROLLO%20WEB%20%20%2F%20%20COMPUTACI%C3%93N&amp;descAlignY=65&amp;descSize=15&amp;stroke=ef233c&amp;strokeWidth=1" width="100%" alt="Benjamin Liras | Desarrollo web y computación. Banner negro y rojo oscuro." />
 
-<h1>Benjamin Liras</h1>
-
-<h3>Técnico en Computación | Desarrollo Web</h3>
+<br /><br />
 
 Construyendo ideas, aprendiendo tecnología y creando soluciones
 
