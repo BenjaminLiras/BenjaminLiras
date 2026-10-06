@@ -1,4 +1,4 @@
-<div align="center">
+lign="center">
 
 <img src="./assets/banner.svg" width="100%" alt="Benjamin Liras | Técnico en Computación y desarrollo web" />
 
@@ -33,16 +33,24 @@ const benjamin = {
 
 ## ▸ Proyectos destacados
 
-<div align="center">
-
+<table align="center">
+<tr>
+<td align="center">
 <a href="https://github.com/BenjaminLiras/Portafolio-Frontend-Liras">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=BenjaminLiras&repo=Portafolio-Frontend-Liras&bg_color=0d0d10&border_color=3f1d24&title_color=ef233c&text_color=d4d4d8&icon_color=ef233c" alt="Portafolio Frontend" />
 </a>
+<br />
+<img src="https://img.shields.io/badge/estado-en%20proceso-f59e0b?style=flat-square&labelColor=0d0d10" alt="Proyecto en proceso" />
+</td>
+<td align="center">
 <a href="https://github.com/BenjaminLiras/Liras-Benjamin-FarmaciaTapia">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=BenjaminLiras&repo=Liras-Benjamin-FarmaciaTapia&bg_color=0d0d10&border_color=3f1d24&title_color=ef233c&text_color=d4d4d8&icon_color=ef233c" alt="Farmacia Tapia" />
 </a>
-
-</div>
+<br />
+<img src="https://img.shields.io/badge/estado-en%20proceso-f59e0b?style=flat-square&labelColor=0d0d10" alt="Proyecto en proceso" />
+</td>
+</tr>
+</table>
 
 ## ▸ En este momento
 
